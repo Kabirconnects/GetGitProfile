@@ -1,7 +1,7 @@
 import React from "react";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom"; // Import correct components
 import Page2 from "./Pages/Page2"; // Adjust import if necessary
-import Page1 from "./Pages/page1";
+import Page1 from "./Pages/Page1";  // Correct case and path
 
 function App() {
   return (
